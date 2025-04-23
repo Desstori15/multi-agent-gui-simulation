@@ -1,5 +1,5 @@
 # multi-agent-gui-simulation
-# multi-agent-gui-simulation  
+
 ##  Multi-Agent and Economic Model Simulator with Java GUI
 
 An educational simulation framework for running and comparing multiple economic and agent-based models through a Java Swing graphical interface.  
